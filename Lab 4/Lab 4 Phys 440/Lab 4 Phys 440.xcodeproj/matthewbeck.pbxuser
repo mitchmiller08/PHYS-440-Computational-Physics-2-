@@ -1,0 +1,875 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeArchitecture = ppc;
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 50933EEA1335A2BD0029C0C9 /* Lab 4 Phys 440 */;
+		activeTarget = 8DD76F620486A84900D96B5E /* Lab 4 Phys 440 */;
+		addToTargets = (
+			8DD76F620486A84900D96B5E /* Lab 4 Phys 440 */,
+		);
+		breakpoints = (
+			5092B22F13444E81005C4EFD /* QuantumMechanics.c:168 */,
+			5092B23A13445224005C4EFD /* QuantumMechanics.c:179 */,
+			5092B26A13446623005C4EFD /* QuantumMechanics.c:173 */,
+			5092B27913446AE7005C4EFD /* QuantumMechanics.c:67 */,
+			5092B27B13446B12005C4EFD /* QuantumMechanics.c:99 */,
+			5092B29D13447780005C4EFD /* QuantumMechanics.c:139 */,
+			5092B2A21344787B005C4EFD /* QuantumMechanics.c:118 */,
+			5092B2A51344798D005C4EFD /* QuantumMechanics.c:126 */,
+			5092B2AA13447EC7005C4EFD /* QuantumMechanics.c:145 */,
+			5092B2B2134480F6005C4EFD /* QuantumMechanics.c:165 */,
+			508CFD151346A809001BD2E7 /* FiniteDifferenceEq5_105.c:38 */,
+			50EAB4F41346AEA300F70445 /* FiniteDifferenceEq5_105.c:93 */,
+			50EAB4F61346AEC000F70445 /* FiniteDifferenceEq5_105.c:107 */,
+			50EAB5061346B04500F70445 /* FiniteDifferenceEq5_105.c:96 */,
+			506918261348377400215394 /* EX_5_39.c:83 */,
+			5069182D134838EF00215394 /* EX_5_39.c:46 */,
+			5069183D1348465D00215394 /* Ex_7_1.c:63 */,
+			5069183F1348465F00215394 /* Ex_7_1.c:71 */,
+			5069184E1348472800215394 /* Ex_7_1.c:55 */,
+			50691854134847BD00215394 /* Ex_7_1.c:42 */,
+			509955B313497C7E00B67729 /* Ex_7_1_F.c:38 */,
+			5099566813498E3900B67729 /* Ex_7_3.c:43 */,
+			5099566B13498E4700B67729 /* Ex_7_3.c:45 */,
+			5099566D13498EDC00B67729 /* Ex_7_3.c:63 */,
+			509956761349922800B67729 /* Ex_7_8.c:111 */,
+			509956871349A12800B67729 /* Ex_7_8.c:29 */,
+			509956891349A12C00B67729 /* Ex_7_8.c:41 */,
+			5099568B1349A13700B67729 /* Ex_7_8.c:47 */,
+			509956921349A3ED00B67729 /* Ex_7_8.c:126 */,
+			500C4B28134B0FE000AF0015 /* EX_5_47.c:192 */,
+			500C4B40134B11EB00AF0015 /* EX_5_47.c:103 */,
+			500C4B43134B12F900AF0015 /* EX_5_47.c:194 */,
+			500C4B46134B138B00AF0015 /* EX_5_47.c:198 */,
+			500C4B4C134B159400AF0015 /* EX_5_47.c:195 */,
+			500C4B4E134B15B500AF0015 /* EX_5_47.c:191 */,
+			50D0D015135477DD00649F20 /* EX_5_39.c:60 */,
+			505993FB13557FB4005E6089 /* DataFitter.c:51 */,
+		);
+		codeSenseManager = 50933ECD133591D80029C0C9 /* Code sense */;
+		executables = (
+			50933EEA1335A2BD0029C0C9 /* Lab 4 Phys 440 */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					243,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					203,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 325496246;
+			PBXWorkspaceStateSaveDate = 325496246;
+		};
+		sourceControlManager = 50933ECC133591D80029C0C9 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	500C4B28134B0FE000AF0015 /* EX_5_47.c:192 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 509956A01349B0E100B67729 /* EX_5_47.c */;
+		functionName = "main()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 192;
+		location = "Lab 4 Phys 440";
+		modificationTime = 324596022.41135;
+		state = 2;
+	};
+	500C4B40134B11EB00AF0015 /* EX_5_47.c:103 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 509956A01349B0E100B67729 /* EX_5_47.c */;
+		functionName = "LHSMatrixInitiate()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 103;
+		location = "Lab 4 Phys 440";
+		modificationTime = 324596022.411801;
+		state = 2;
+	};
+	500C4B43134B12F900AF0015 /* EX_5_47.c:194 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 509956A01349B0E100B67729 /* EX_5_47.c */;
+		functionName = "main()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 194;
+		location = "Lab 4 Phys 440";
+		modificationTime = 324596022.4119239;
+		state = 2;
+	};
+	500C4B46134B138B00AF0015 /* EX_5_47.c:198 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 509956A01349B0E100B67729 /* EX_5_47.c */;
+		functionName = "main()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 198;
+		location = "Lab 4 Phys 440";
+		modificationTime = 324596022.412015;
+		state = 2;
+	};
+	500C4B4C134B159400AF0015 /* EX_5_47.c:195 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 509956A01349B0E100B67729 /* EX_5_47.c */;
+		functionName = "main()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 195;
+		location = "Lab 4 Phys 440";
+		modificationTime = 324596022.4120851;
+		state = 2;
+	};
+	500C4B4E134B15B500AF0015 /* EX_5_47.c:191 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 509956A01349B0E100B67729 /* EX_5_47.c */;
+		functionName = "main()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 191;
+		location = "Lab 4 Phys 440";
+		modificationTime = 324596022.41215;
+		state = 2;
+	};
+	505993F413557EA6005E6089 /* DataFitter.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1202, 2912}}";
+			sepNavSelRange = "{2954, 74}";
+			sepNavVisRange = "{294, 782}";
+			sepNavWindowFrame = "{{38, 132}, {1261, 720}}";
+		};
+	};
+	505993FB13557FB4005E6089 /* DataFitter.c:51 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 505993F413557EA6005E6089 /* DataFitter.c */;
+		functionName = "main()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 51;
+		location = "Lab 4 Phys 440";
+		modificationTime = 324596022.412235;
+		state = 2;
+	};
+	506918261348377400215394 /* EX_5_39.c:83 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 50943F181347CE6C00CA539C /* EX_5_39.c */;
+		functionName = "main()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 83;
+		location = "Lab 4 Phys 440";
+		modificationTime = 324596022.411085;
+		state = 2;
+	};
+	5069182D134838EF00215394 /* EX_5_39.c:46 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 50943F181347CE6C00CA539C /* EX_5_39.c */;
+		functionName = "main()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 46;
+		location = "Lab 4 Phys 440";
+		modificationTime = 324596022.411103;
+		state = 2;
+	};
+	5069183013483A9900215394 /* Ex_7_1.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1202, 1386}}";
+			sepNavSelRange = "{312, 0}";
+			sepNavVisRange = "{0, 1187}";
+			sepNavWindowFrame = "{{15, 153}, {1261, 720}}";
+		};
+	};
+	5069183D1348465D00215394 /* Ex_7_1.c:63 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 5069183013483A9900215394 /* Ex_7_1.c */;
+		functionName = "main()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 63;
+		location = "Lab 4 Phys 440";
+		modificationTime = 324596022.41112;
+		state = 2;
+	};
+	5069183F1348465F00215394 /* Ex_7_1.c:71 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 5069183013483A9900215394 /* Ex_7_1.c */;
+		functionName = "main()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 71;
+		location = "Lab 4 Phys 440";
+		modificationTime = 324596022.411138;
+		state = 2;
+	};
+	5069184E1348472800215394 /* Ex_7_1.c:55 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 5069183013483A9900215394 /* Ex_7_1.c */;
+		functionName = "main()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 55;
+		location = "Lab 4 Phys 440";
+		modificationTime = 324596022.411156;
+		state = 2;
+	};
+	50691854134847BD00215394 /* Ex_7_1.c:42 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 5069183013483A9900215394 /* Ex_7_1.c */;
+		functionName = "main()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 42;
+		location = "Lab 4 Phys 440";
+		modificationTime = 324596022.4111739;
+		state = 2;
+	};
+	508CFD151346A809001BD2E7 /* FiniteDifferenceEq5_105.c:38 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 50A347AF13467533004B324A /* FiniteDifferenceEq5_105.c */;
+		functionName = "initializeOldArray()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 38;
+		location = "Lab 4 Phys 440";
+		modificationTime = 324596022.411013;
+		state = 2;
+	};
+	5092B1B013440E49005C4EFD /* QuantumMechanics.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1202, 3458}}";
+			sepNavSelRange = "{4721, 0}";
+			sepNavVisRange = "{3813, 1026}";
+			sepNavWindowFrame = "{{147, 64}, {1261, 720}}";
+		};
+	};
+	5092B22F13444E81005C4EFD /* QuantumMechanics.c:168 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 5092B1B013440E49005C4EFD /* QuantumMechanics.c */;
+		functionName = "outPutWaveFunctions()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 168;
+		location = "Lab 4 Phys 440";
+		modificationTime = 324596022.410763;
+		state = 2;
+	};
+	5092B23A13445224005C4EFD /* QuantumMechanics.c:179 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 5092B1B013440E49005C4EFD /* QuantumMechanics.c */;
+		functionName = "outPutWaveFunctions()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 179;
+		modificationTime = 324596022.4108161;
+		state = 2;
+	};
+	5092B26A13446623005C4EFD /* QuantumMechanics.c:173 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 5092B1B013440E49005C4EFD /* QuantumMechanics.c */;
+		functionName = "outPutWaveFunctions()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 173;
+		location = "Lab 4 Phys 440";
+		modificationTime = 324596022.4108361;
+		state = 2;
+	};
+	5092B27913446AE7005C4EFD /* QuantumMechanics.c:67 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 5092B1B013440E49005C4EFD /* QuantumMechanics.c */;
+		functionName = "findEnergy()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 67;
+		location = "Lab 4 Phys 440";
+		modificationTime = 324596022.410854;
+		state = 2;
+	};
+	5092B27B13446B12005C4EFD /* QuantumMechanics.c:99 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 5092B1B013440E49005C4EFD /* QuantumMechanics.c */;
+		functionName = "findEnergy()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 99;
+		location = "Lab 4 Phys 440";
+		modificationTime = 324596022.410905;
+		state = 2;
+	};
+	5092B29D13447780005C4EFD /* QuantumMechanics.c:139 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 5092B1B013440E49005C4EFD /* QuantumMechanics.c */;
+		functionName = "outPutWaveFunctions()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 139;
+		location = "Lab 4 Phys 440";
+		modificationTime = 324596022.410925;
+		state = 2;
+	};
+	5092B2A21344787B005C4EFD /* QuantumMechanics.c:118 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 5092B1B013440E49005C4EFD /* QuantumMechanics.c */;
+		functionName = "outPutWaveFunctions()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 118;
+		location = "Lab 4 Phys 440";
+		modificationTime = 324596022.410943;
+		state = 2;
+	};
+	5092B2A51344798D005C4EFD /* QuantumMechanics.c:126 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 5092B1B013440E49005C4EFD /* QuantumMechanics.c */;
+		functionName = "outPutWaveFunctions()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 126;
+		location = "Lab 4 Phys 440";
+		modificationTime = 324596022.41096;
+		state = 2;
+	};
+	5092B2AA13447EC7005C4EFD /* QuantumMechanics.c:145 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 5092B1B013440E49005C4EFD /* QuantumMechanics.c */;
+		functionName = "outPutWaveFunctions()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 145;
+		location = "Lab 4 Phys 440";
+		modificationTime = 324596022.410978;
+		state = 2;
+	};
+	5092B2B2134480F6005C4EFD /* QuantumMechanics.c:165 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 5092B1B013440E49005C4EFD /* QuantumMechanics.c */;
+		functionName = "outPutWaveFunctions()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 165;
+		location = "Lab 4 Phys 440";
+		modificationTime = 324596022.410996;
+		state = 2;
+	};
+	50933ECC133591D80029C0C9 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	50933ECD133591D80029C0C9 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	50933ED0133591F00029C0C9 /* DrivenDampedPendulum.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1202, 1386}}";
+			sepNavSelRange = "{2211, 0}";
+			sepNavVisRange = "{1660, 977}";
+			sepNavWindowFrame = "{{111, 66}, {1261, 720}}";
+		};
+	};
+	50933EEA1335A2BD0029C0C9 /* Lab 4 Phys 440 */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Lab 4 Phys 440";
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	50943F181347CE6C00CA539C /* EX_5_39.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1202, 1386}}";
+			sepNavSelRange = "{1507, 0}";
+			sepNavVisRange = "{641, 1177}";
+			sepNavWindowFrame = "{{93, 108}, {1261, 720}}";
+		};
+	};
+	509955A6134976A500B67729 /* Ex_7_1_F.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1202, 1540}}";
+			sepNavSelRange = "{1310, 0}";
+			sepNavVisRange = "{1076, 721}";
+			sepNavWindowFrame = "{{123, 86}, {1261, 720}}";
+		};
+	};
+	509955B313497C7E00B67729 /* Ex_7_1_F.c:38 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 509955A6134976A500B67729 /* Ex_7_1_F.c */;
+		functionName = "main()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 38;
+		location = "Lab 4 Phys 440";
+		modificationTime = 324596022.4111921;
+		state = 2;
+	};
+	5099565413498B5D00B67729 /* Ex_7_3.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1202, 1722}}";
+			sepNavSelRange = "{351, 0}";
+			sepNavVisRange = "{3, 812}";
+			sepNavWindowFrame = "{{38, 132}, {1261, 720}}";
+		};
+	};
+	5099566813498E3900B67729 /* Ex_7_3.c:43 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 5099565413498B5D00B67729 /* Ex_7_3.c */;
+		functionName = "main()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 43;
+		location = "Lab 4 Phys 440";
+		modificationTime = 324596022.411209;
+		state = 2;
+	};
+	5099566B13498E4700B67729 /* Ex_7_3.c:45 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 5099565413498B5D00B67729 /* Ex_7_3.c */;
+		functionName = "main()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 45;
+		location = "Lab 4 Phys 440";
+		modificationTime = 324596022.411227;
+		state = 2;
+	};
+	5099566D13498EDC00B67729 /* Ex_7_3.c:63 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 5099565413498B5D00B67729 /* Ex_7_3.c */;
+		functionName = "main()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 63;
+		location = "Lab 4 Phys 440";
+		modificationTime = 324596022.4112458;
+		state = 2;
+	};
+	5099567213498F7F00B67729 /* Ex_7_8.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1202, 2058}}";
+			sepNavSelRange = "{0, 4111}";
+			sepNavVisRange = "{2064, 1291}";
+			sepNavWindowFrame = "{{80, 112}, {1261, 720}}";
+		};
+	};
+	509956761349922800B67729 /* Ex_7_8.c:111 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 5099567213498F7F00B67729 /* Ex_7_8.c */;
+		functionName = "main()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 111;
+		location = "Lab 4 Phys 440";
+		modificationTime = 324596022.411263;
+		state = 2;
+	};
+	509956871349A12800B67729 /* Ex_7_8.c:29 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 5099567213498F7F00B67729 /* Ex_7_8.c */;
+		functionName = "initiateHeatFunction()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 29;
+		location = "Lab 4 Phys 440";
+		modificationTime = 324596022.41128;
+		state = 2;
+	};
+	509956891349A12C00B67729 /* Ex_7_8.c:41 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 5099567213498F7F00B67729 /* Ex_7_8.c */;
+		functionName = "initiateHeatFunction()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 41;
+		location = "Lab 4 Phys 440";
+		modificationTime = 324596022.411298;
+		state = 2;
+	};
+	5099568B1349A13700B67729 /* Ex_7_8.c:47 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 5099567213498F7F00B67729 /* Ex_7_8.c */;
+		functionName = "initiateHeatFunction()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 47;
+		location = "Lab 4 Phys 440";
+		modificationTime = 324596022.411316;
+		state = 2;
+	};
+	509956921349A3ED00B67729 /* Ex_7_8.c:126 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 5099567213498F7F00B67729 /* Ex_7_8.c */;
+		functionName = "main()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 126;
+		location = "Lab 4 Phys 440";
+		modificationTime = 324596022.411333;
+		state = 2;
+	};
+	509956A01349B0E100B67729 /* EX_5_47.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1202, 3500}}";
+			sepNavSelRange = "{621, 0}";
+			sepNavVisRange = "{3881, 1420}";
+			sepNavWindowFrame = "{{117, 104}, {1261, 720}}";
+		};
+	};
+	50A347AF13467533004B324A /* FiniteDifferenceEq5_105.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1202, 1778}}";
+			sepNavSelRange = "{2493, 0}";
+			sepNavVisRange = "{2110, 1126}";
+			sepNavWindowFrame = "{{69, 100}, {1261, 720}}";
+		};
+	};
+	50AC5E6F13370ACB00EFDAF2 /* DuffingOscillator.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1202, 1204}}";
+			sepNavSelRange = "{1579, 0}";
+			sepNavVisRange = "{1379, 884}";
+			sepNavWindowFrame = "{{94, 101}, {1261, 720}}";
+		};
+	};
+	50AC5E8F1337146A00EFDAF2 /* vanDePolOscillator.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1202, 1204}}";
+			sepNavSelRange = "{2029, 0}";
+			sepNavVisRange = "{1277, 998}";
+			sepNavWindowFrame = "{{126, 82}, {1261, 720}}";
+		};
+	};
+	50D0D015135477DD00649F20 /* EX_5_39.c:60 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 50943F181347CE6C00CA539C /* EX_5_39.c */;
+		functionName = "main()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 60;
+		location = "Lab 4 Phys 440";
+		modificationTime = 324596022.412214;
+		state = 2;
+	};
+	50EAB4F41346AEA300F70445 /* FiniteDifferenceEq5_105.c:93 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 50A347AF13467533004B324A /* FiniteDifferenceEq5_105.c */;
+		functionName = "main()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 93;
+		location = "Lab 4 Phys 440";
+		modificationTime = 324596022.411031;
+		state = 2;
+	};
+	50EAB4F61346AEC000F70445 /* FiniteDifferenceEq5_105.c:107 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 50A347AF13467533004B324A /* FiniteDifferenceEq5_105.c */;
+		functionName = "main()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 107;
+		location = "Lab 4 Phys 440";
+		modificationTime = 324596022.411049;
+		state = 2;
+	};
+	50EAB5061346B04500F70445 /* FiniteDifferenceEq5_105.c:96 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 50A347AF13467533004B324A /* FiniteDifferenceEq5_105.c */;
+		functionName = "main()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 96;
+		location = "Lab 4 Phys 440";
+		modificationTime = 324596022.411068;
+		state = 2;
+	};
+	8DD76F620486A84900D96B5E /* Lab 4 Phys 440 */ = {
+		activeExec = 0;
+		executables = (
+			50933EEA1335A2BD0029C0C9 /* Lab 4 Phys 440 */,
+		);
+	};
+}

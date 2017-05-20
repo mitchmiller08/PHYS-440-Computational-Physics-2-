@@ -1,0 +1,205 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		30BFB9D0151CEE9D0044ADAD /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 30BFB9CF151CEE9D0044ADAD /* main.c */; };
+		30BFB9D2151CEE9D0044ADAD /* HeAtom.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = 30BFB9D1151CEE9D0044ADAD /* HeAtom.1 */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		30BFB9C9151CEE9D0044ADAD /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+				30BFB9D2151CEE9D0044ADAD /* HeAtom.1 in CopyFiles */,
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		30BFB9CB151CEE9D0044ADAD /* HeAtom */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = HeAtom; sourceTree = BUILT_PRODUCTS_DIR; };
+		30BFB9CF151CEE9D0044ADAD /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		30BFB9D1151CEE9D0044ADAD /* HeAtom.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = HeAtom.1; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		30BFB9C8151CEE9D0044ADAD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		30BFB9C0151CEE9D0044ADAD = {
+			isa = PBXGroup;
+			children = (
+				30BFB9CE151CEE9D0044ADAD /* HeAtom */,
+				30BFB9CC151CEE9D0044ADAD /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		30BFB9CC151CEE9D0044ADAD /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				30BFB9CB151CEE9D0044ADAD /* HeAtom */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		30BFB9CE151CEE9D0044ADAD /* HeAtom */ = {
+			isa = PBXGroup;
+			children = (
+				30BFB9CF151CEE9D0044ADAD /* main.c */,
+				30BFB9D1151CEE9D0044ADAD /* HeAtom.1 */,
+			);
+			path = HeAtom;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		30BFB9CA151CEE9D0044ADAD /* HeAtom */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 30BFB9D5151CEE9D0044ADAD /* Build configuration list for PBXNativeTarget "HeAtom" */;
+			buildPhases = (
+				30BFB9C7151CEE9D0044ADAD /* Sources */,
+				30BFB9C8151CEE9D0044ADAD /* Frameworks */,
+				30BFB9C9151CEE9D0044ADAD /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = HeAtom;
+			productName = HeAtom;
+			productReference = 30BFB9CB151CEE9D0044ADAD /* HeAtom */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		30BFB9C2151CEE9D0044ADAD /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 30BFB9C5151CEE9D0044ADAD /* Build configuration list for PBXProject "HeAtom" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 30BFB9C0151CEE9D0044ADAD;
+			productRefGroup = 30BFB9CC151CEE9D0044ADAD /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				30BFB9CA151CEE9D0044ADAD /* HeAtom */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		30BFB9C7151CEE9D0044ADAD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				30BFB9D0151CEE9D0044ADAD /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		30BFB9D3151CEE9D0044ADAD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		30BFB9D4151CEE9D0044ADAD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		30BFB9D6151CEE9D0044ADAD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		30BFB9D7151CEE9D0044ADAD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		30BFB9C5151CEE9D0044ADAD /* Build configuration list for PBXProject "HeAtom" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				30BFB9D3151CEE9D0044ADAD /* Debug */,
+				30BFB9D4151CEE9D0044ADAD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		30BFB9D5151CEE9D0044ADAD /* Build configuration list for PBXNativeTarget "HeAtom" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				30BFB9D6151CEE9D0044ADAD /* Debug */,
+				30BFB9D7151CEE9D0044ADAD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 30BFB9C2151CEE9D0044ADAD /* Project object */;
+}

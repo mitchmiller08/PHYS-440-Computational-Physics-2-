@@ -1,0 +1,436 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeArchitecture = ppc;
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 50176097130F4C31009A46EC /* 440 lab 3 */;
+		activeTarget = 8DD76F620486A84900D96B5E /* 440 lab 3 */;
+		addToTargets = (
+			8DD76F620486A84900D96B5E /* 440 lab 3 */,
+		);
+		breakpoints = (
+			508BD5FE1316470400EBAEA5 /* rombergIntegration.c:220 */,
+			508BD60E1316497300EBAEA5 /* EX_4_04.c:209 */,
+			508725B31318766700E95D3C /* EX_4_22.c:78 */,
+			508725D313187C5200E95D3C /* EX_4_22.c:56 */,
+			50958A0313235B280034802B /* HeliumAtom.c:205 */,
+			50958A0613235B800034802B /* HeliumAtom.c:201 */,
+			509B922F1324709E00C049AD /* HeliumAtom.c:289 */,
+			5089B7A31324B10C002A348D /* HeliumAtom.c:317 */,
+			501724CE1326530A00F30EDF /* EX_4_22.c:57 */,
+			501724E31326685F00F30EDF /* EX_4_24.c:117 */,
+			501724FF13266EB300F30EDF /* HeliumAtom.c:330 */,
+		);
+		codeSenseManager = 5017606A130F39F3009A46EC /* Code sense */;
+		executables = (
+			50176097130F4C31009A46EC /* 440 lab 3 */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					243,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 323386669;
+			PBXWorkspaceStateSaveDate = 323386669;
+		};
+		sourceControlManager = 50176069130F39F3009A46EC /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	500526251310FA7F00E58AB3 /* rombergIntegration.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {875, 3696}}";
+			sepNavSelRange = "{3319, 0}";
+			sepNavVisRange = "{3012, 848}";
+			sepNavWindowFrame = "{{137, 175}, {934, 698}}";
+		};
+	};
+	501724CE1326530A00F30EDF /* EX_4_22.c:57 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 508725AA131867E000E95D3C /* EX_4_22.c */;
+		functionName = "gaussN5()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 57;
+		location = "440 lab 3";
+		modificationTime = 321285844.541311;
+		state = 2;
+	};
+	501724E31326685F00F30EDF /* EX_4_24.c:117 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 508D3509131829D0005AFDB3 /* EX_4_24.c */;
+		functionName = "main()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 117;
+		location = "440 lab 3";
+		modificationTime = 321285844.541328;
+		state = 2;
+	};
+	501724FF13266EB300F30EDF /* HeliumAtom.c:330 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 509F315013217C75008D46D6 /* HeliumAtom.c */;
+		functionName = "main()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 330;
+		location = "440 lab 3";
+		modificationTime = 321287546.612948;
+		state = 1;
+	};
+	50176069130F39F3009A46EC /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	5017606A130F39F3009A46EC /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	5017606D130F3A6E009A46EC /* EX_4_04.c */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{1, 135}\";\n        },\n                {\n            r = \"{1784, 1330}\";\n        }\n    );\n    r = \"{0, 7231}\";\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {776, 2464}}";
+			sepNavSelRange = "{901, 0}";
+			sepNavVisRange = "{518, 1030}";
+			sepNavWindowFrame = "{{50, 320}, {750, 558}}";
+		};
+	};
+	50176097130F4C31009A46EC /* 440 lab 3 */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "440 lab 3";
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+			$v0 = 1;
+			$v1 = 1;
+			$v10 = 1;
+			$v11 = 1;
+			$v12 = 1;
+			$v13 = 1;
+			$v14 = 1;
+			$v15 = 1;
+			$v16 = 1;
+			$v17 = 1;
+			$v18 = 1;
+			$v19 = 1;
+			$v2 = 1;
+			$v20 = 1;
+			$v21 = 1;
+			$v22 = 1;
+			$v23 = 1;
+			$v24 = 1;
+			$v25 = 1;
+			$v26 = 1;
+			$v27 = 1;
+			$v28 = 1;
+			$v29 = 1;
+			$v3 = 1;
+			$v30 = 1;
+			$v31 = 1;
+			$v4 = 1;
+			$v5 = 1;
+			$v6 = 1;
+			$v7 = 1;
+			$v8 = 1;
+			$v9 = 1;
+			$vrsave = 1;
+			$vscr = 1;
+		};
+	};
+	508725AA131867E000E95D3C /* EX_4_22.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1418, 1134}}";
+			sepNavSelRange = "{1698, 0}";
+			sepNavVisRange = "{1316, 1477}";
+			sepNavWindowFrame = "{{222, 80}, {934, 698}}";
+		};
+	};
+	508725B31318766700E95D3C /* EX_4_22.c:78 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 508725AA131867E000E95D3C /* EX_4_22.c */;
+		functionName = "main()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 78;
+		location = "440 lab 3";
+		modificationTime = 321285844.540627;
+		state = 2;
+	};
+	508725D313187C5200E95D3C /* EX_4_22.c:56 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 508725AA131867E000E95D3C /* EX_4_22.c */;
+		functionName = "gaussN5()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 56;
+		location = "440 lab 3";
+		modificationTime = 321285844.54064;
+		state = 2;
+	};
+	5088BA9C1310EF8400632E53 /* EX_4_05.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {776, 3150}}";
+			sepNavSelRange = "{3883, 0}";
+			sepNavVisRange = "{2998, 1241}";
+			sepNavWindowFrame = "{{65, 142}, {747, 698}}";
+		};
+	};
+	5089B7A31324B10C002A348D /* HeliumAtom.c:317 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 509F315013217C75008D46D6 /* HeliumAtom.c */;
+		functionName = "main()";
+		hitCount = 7;
+		ignoreCount = 0;
+		lineNumber = 317;
+		location = "440 lab 3";
+		modificationTime = 321287501.875718;
+		state = 1;
+	};
+	508BD5751316163100EBAEA5 /* EX_4_06.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {688, 3402}}";
+			sepNavSelRange = "{2847, 0}";
+			sepNavVisRange = "{2816, 1013}";
+			sepNavWindowFrame = "{{98, 149}, {747, 698}}";
+		};
+	};
+	508BD5FE1316470400EBAEA5 /* rombergIntegration.c:220 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 500526251310FA7F00E58AB3 /* rombergIntegration.c */;
+		functionName = "main()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 220;
+		location = "440 lab 3";
+		modificationTime = 321285844.54057;
+		state = 2;
+	};
+	508BD60E1316497300EBAEA5 /* EX_4_04.c:209 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 5017606D130F3A6E009A46EC /* EX_4_04.c */;
+		functionName = "main()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 209;
+		modificationTime = 321287546.612891;
+		state = 1;
+	};
+	508D3509131829D0005AFDB3 /* EX_4_24.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {688, 1834}}";
+			sepNavSelRange = "{2491, 0}";
+			sepNavVisRange = "{1999, 1253}";
+			sepNavWindowFrame = "{{38, 154}, {747, 698}}";
+		};
+	};
+	50958A0313235B280034802B /* HeliumAtom.c:205 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 509F315013217C75008D46D6 /* HeliumAtom.c */;
+		functionName = "K1s2s()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 205;
+		location = "440 lab 3";
+		modificationTime = 321285844.540655;
+		state = 2;
+	};
+	50958A0613235B800034802B /* HeliumAtom.c:201 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 509F315013217C75008D46D6 /* HeliumAtom.c */;
+		functionName = "K1s2s()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 201;
+		location = "440 lab 3";
+		modificationTime = 321285844.540896;
+		state = 2;
+	};
+	509B922F1324709E00C049AD /* HeliumAtom.c:289 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 509F315013217C75008D46D6 /* HeliumAtom.c */;
+		functionName = "K1s2p()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 289;
+		location = "440 lab 3";
+		modificationTime = 321285844.5410399;
+		state = 2;
+	};
+	509F315013217C75008D46D6 /* HeliumAtom.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {939, 4942}}";
+			sepNavSelRange = "{8761, 0}";
+			sepNavVisRange = "{8595, 336}";
+			sepNavWindowFrame = "{{204, 139}, {934, 698}}";
+		};
+	};
+	509F3170132198C7008D46D6 /* rngs.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {939, 2422}}";
+			sepNavSelRange = "{2798, 0}";
+			sepNavVisRange = "{2798, 529}";
+			sepNavWindowFrame = "{{38, 154}, {747, 698}}";
+		};
+	};
+	509F31791321992B008D46D6 /* rngs.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {688, 570}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 670}";
+			sepNavWindowFrame = "{{38, 154}, {747, 698}}";
+		};
+	};
+	509F317A1321992B008D46D6 /* rvgs.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {688, 547}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 887}";
+			sepNavWindowFrame = "{{15, 175}, {747, 698}}";
+		};
+	};
+	509F31CB1321BC9E008D46D6 /* rvgs.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {688, 3080}}";
+			sepNavSelRange = "{3865, 0}";
+			sepNavVisRange = "{0, 1616}";
+			sepNavWindowFrame = "{{61, 133}, {747, 698}}";
+		};
+	};
+	50B7554413179A5C001D7A0C /* Ex_4_15.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {746, 1834}}";
+			sepNavSelRange = "{3367, 0}";
+			sepNavVisRange = "{2946, 1354}";
+			sepNavWindowFrame = "{{275, 137}, {747, 698}}";
+		};
+	};
+	50B755641317A906001D7A0C /* Ex_4_16.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {812, 1834}}";
+			sepNavSelRange = "{3148, 0}";
+			sepNavVisRange = "{2968, 1406}";
+			sepNavWindowFrame = "{{84, 112}, {747, 698}}";
+		};
+	};
+	50B755911317B00A001D7A0C /* EX_4_18.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1058, 1862}}";
+			sepNavSelRange = "{4224, 0}";
+			sepNavVisRange = "{3170, 1624}";
+			sepNavWindowFrame = "{{15, 175}, {747, 698}}";
+		};
+	};
+	8DD76F620486A84900D96B5E /* 440 lab 3 */ = {
+		activeExec = 0;
+		executables = (
+			50176097130F4C31009A46EC /* 440 lab 3 */,
+		);
+	};
+}

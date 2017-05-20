@@ -1,0 +1,19 @@
+91838338f374c0ee7ee2857da2939ff6 cfa20513ac2c3b11cce0e31cf806994c ffffffffffffffffffffffffffffffff 19364 /Users/matthewbeck/440 lab 3/build/Debug/440 lab 3
+00000000471f601e0000000000001cfc 91838338f91a26507ee2857da2938363 ffffffffffffffffffffffffffffffff 24252 /Users/matthewbeck/440 lab 3/build/440 lab 3.build/Debug/440 lab 3.build/Objects-normal/ppc/HeliumAtom.o
+00000000471f7d140000000000001fc1 f09750c415f8ee3c362e55dd35858b12 ffffffffffffffffffffffffffffffff 23456 /Users/matthewbeck/440 lab 3/build/440 lab 3.build/Debug/440 lab 3.build/Objects-normal/ppc/EX_4_24.o
+000000004706eb3f0000000000003ac1 67b3f924386bbf962f9641d014149f40 ffffffffffffffffffffffffffffffff 9144 /Users/matthewbeck/440 lab 3/build/440 lab 3.build/Debug/440 lab 3.build/Objects-normal/ppc/rngs.o
+000000000b9eccf1000000000000db5d 5aed1d5b68865153a7db1013cb8721cf ffffffffffffffffffffffffffffffff 9664 /Users/matthewbeck/440 lab 3/build/440 lab 3.build/Debug/440 lab 3.build/Objects-normal/ppc/rvgs.o
+000000000b90cf8e000000000000ec7b acb8183af8ef5e4f1c605881e0d29365 ffffffffffffffffffffffffffffffff 0 /Users/matthewbeck/440 lab 3/build/440 lab 3.build/Debug/440 lab 3.build/Objects-normal/ppc/rombergIntegration.o
+000000000b87a985000000000000cc6f c489e5e8a48cdd29b62efe6d1e177a26 ffffffffffffffffffffffffffffffff 17432 /Users/matthewbeck/440 lab 3/build/440 lab 3.build/Debug/440 lab 3.build/Objects-normal/ppc/GenericPotential.o
+000000004d7bcdbf0000000000006907 dd1aed86ec7138c45b73cbdccdf08ed4 ffffffffffffffffffffffffffffffff 4388 /Users/matthewbeck/440 lab 3/build/440 lab 3.build/Debug/440 lab 3.build/Objects-normal/ppc/squarewellgenerator.o
+000000000b991161000000000000eed9 b6df833eb2dd6d58bdf62205ea08d140 ffffffffffffffffffffffffffffffff 10516 /Users/matthewbeck/440 lab 3/build/440 lab 3.build/Debug/440 lab 3.build/Objects-normal/ppc/EX_4_06.o
+000000000b9e9aa2000000000000fede a463010346e10eed24049b6226669417 ffffffffffffffffffffffffffffffff 5632 /Users/matthewbeck/440 lab 3/build/440 lab 3.build/Debug/440 lab 3.build/Objects-normal/ppc/EX_4_22.o
+000000000b91298a000000000000c3f9 fd732ea01d8da5bfb554de4c316366d6 ffffffffffffffffffffffffffffffff 2124 /Users/matthewbeck/440 lab 3/build/440 lab 3.build/Debug/440 lab 3.build/Objects-normal/ppc/UniformDistribution.o
+000000000b915768000000000000e532 30d5295630e67e19d734d077f6ced695 ffffffffffffffffffffffffffffffff 10928 /Users/matthewbeck/440 lab 3/build/440 lab 3.build/Debug/440 lab 3.build/Objects-normal/ppc/EX_4_18.o
+000000000b91acff000000000000e770 30e5df7b436b0537b8e0dd2853fe4dbb ffffffffffffffffffffffffffffffff 9876 /Users/matthewbeck/440 lab 3/build/440 lab 3.build/Debug/440 lab 3.build/Objects-normal/ppc/Ex_4_16.o
+000000000b91ae2e000000000000e746 97e3fdeee2c45a83ff1d67b54cc50ea1 ffffffffffffffffffffffffffffffff 9624 /Users/matthewbeck/440 lab 3/build/440 lab 3.build/Debug/440 lab 3.build/Objects-normal/ppc/Ex_4_15.o
+000000000b90f810000000000000eec3 f1ffdf856f10b484a7bfa7053c73586d ffffffffffffffffffffffffffffffff 10200 /Users/matthewbeck/440 lab 3/build/440 lab 3.build/Debug/440 lab 3.build/Objects-normal/ppc/EX_4_6.o
+000000000b90c177000000000000ee01 b221265ff4719c2f4a380dce08d8affc ffffffffffffffffffffffffffffffff 11008 /Users/matthewbeck/440 lab 3/build/440 lab 3.build/Debug/440 lab 3.build/Objects-normal/ppc/EX_4_5.o
+000000000b90cc13000000000000ec76 111856219c691bcd2b6c35d097872e1c ffffffffffffffffffffffffffffffff 12760 /Users/matthewbeck/440 lab 3/build/440 lab 3.build/Debug/440 lab 3.build/Objects-normal/ppc/EX_4_4.o
+ffffffffffffffffffffffffffffffff 84f0e825435594988e53dda62dda2648 ffffffffffffffffffffffffffffffff 0 /Users/matthewbeck/440 lab 3/build/440 lab 3.build/Debug/440 lab 3.build/Objects-normal/ppc/EX_4_6_Trap.o
+000000000b967daa000000000000e01c c7d635c651aaf0e45011d5219b62d856 ffffffffffffffffffffffffffffffff 9332 /Users/matthewbeck/440 lab 3/build/440 lab 3.build/Debug/440 lab 3.build/Objects-normal/ppc/RombergIntegration.o

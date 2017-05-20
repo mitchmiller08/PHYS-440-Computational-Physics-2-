@@ -1,0 +1,901 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.9.16)  21 FEB 2012 01:15
+entering extended mode
+ \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**CompLab2.tex
+(./CompLab2.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ba
+sque, danish, dutch, finnish, french, german, ngerman, swissgerman, hungarian, 
+italian, bokmal, nynorsk, polish, portuguese, spanish, swedish, loaded.
+(/usr/local/texlive/2011basic/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2011basic/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2011basic/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2011basic/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2011basic/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2011basic/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2011basic/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/local/texlive/2011basic/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2011basic/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+(/usr/local/texlive/2011basic/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/local/texlive/2011basic/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2011basic/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/local/texlive/2011basic/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks15
+\ex@=\dimen105
+))
+(/usr/local/texlive/2011basic/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen106
+)
+(/usr/local/texlive/2011basic/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count88
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count89
+\leftroot@=\count90
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count91
+\DOTSCASE@=\count92
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen107
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count93
+\c@MaxMatrixCols=\count94
+\dotsspace@=\muskip10
+\c@parentequation=\count95
+\dspbrk@lvl=\count96
+\tag@help=\toks16
+\row@=\count97
+\column@=\count98
+\maxfields@=\count99
+\andhelp@=\toks17
+\eqnshift@=\dimen108
+\alignsep@=\dimen109
+\tagshift@=\dimen110
+\tagwidth@=\dimen111
+\totwidth@=\dimen112
+\lineht@=\dimen113
+\@envbody=\toks18
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(/usr/local/texlive/2011basic/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2008/12/05 v1.6h multicolumn formatting (FMi)
+\c@tracingmulticols=\count100
+\mult@box=\box28
+\multicol@leftmargin=\dimen114
+\c@unbalance=\count101
+\c@collectmore=\count102
+\doublecol@number=\count103
+\multicoltolerance=\count104
+\multicolpretolerance=\count105
+\full@width=\dimen115
+\page@free=\dimen116
+\premulticols=\dimen117
+\postmulticols=\dimen118
+\multicolsep=\skip46
+\multicolbaselineskip=\skip47
+\partial@page=\box29
+\last@line=\box30
+\mult@rightbox=\box31
+\mult@grightbox=\box32
+\mult@gfirstbox=\box33
+\mult@firstbox=\box34
+\@tempa=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\c@columnbadness=\count106
+\c@finalcolumnbadness=\count107
+\last@try=\dimen119
+\multicolovershoot=\dimen120
+\multicolundershoot=\dimen121
+\mult@nat@firstbox=\box52
+\colbreak@box=\box53
+)
+(/usr/local/texlive/2011basic/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/local/texlive/2011basic/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(/usr/local/texlive/2011basic/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/texlive/2011basic/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count108
+\Gm@cntv=\count109
+\c@Gm@tempcnt=\count110
+\Gm@bindingoffset=\dimen122
+\Gm@wd@mp=\dimen123
+\Gm@odd@mp=\dimen124
+\Gm@even@mp=\dimen125
+\Gm@layoutwidth=\dimen126
+\Gm@layoutheight=\dimen127
+\Gm@layouthoffset=\dimen128
+\Gm@layoutvoffset=\dimen129
+\Gm@dimlist=\toks20
+)
+(./CompLab2.aux
+
+LaTeX Warning: Label `P2term' multiply defined.
+
+
+LaTeX Warning: Label `CentDiffRich' multiply defined.
+
+
+LaTeX Warning: Label `CentDiffRich' multiply defined.
+
+
+LaTeX Warning: Label `fig:3.3.j0' multiply defined.
+
+
+LaTeX Warning: Label `fig:3.3.j0' multiply defined.
+
+
+LaTeX Warning: Label `fig:3.3.j1' multiply defined.
+
+)
+\openout1 = `CompLab2.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+ (/usr/local/texlive/2011basic/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count111
+\scratchdimen=\dimen130
+\scratchbox=\box54
+\nofMPsegments=\count112
+\nofMParguments=\count113
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count114
+\MPscratchDim=\dimen131
+\MPnumerator=\count115
+\makeMPintoPDFobject=\count116
+\everyMPtoPDFconversion=\toks22
+) (/usr/local/texlive/2011basic/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/04/22 v0.16 Utilities of pdfTeX for LuaTeX (HO)
+
+(/usr/local/texlive/2011basic/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2011basic/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2011basic/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Managing graphics extensions (HO)
+
+(/usr/local/texlive/2011basic/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Defining keys (HO)
+)) (/usr/local/texlive/2011basic/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2010/12/23 v3.10 Keyval support for LaTeX options (HO)
+
+(/usr/local/texlive/2011basic/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2011/04/07 v1.13 Key value parser (HO)
+
+(/usr/local/texlive/2011basic/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Prefix for e-TeX command names (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2011basic/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+[1
+
+{/usr/local/texlive/2011basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+<Bessel.pdf, id=8, 482.80376pt x 291.0875pt>
+File: Bessel.pdf Graphic file (type pdf)
+ <use Bessel.pdf>
+Package pdftex.def Info: Bessel.pdf used on input line 27.
+(pdftex.def)             Requested size: 284.53497pt x 142.26546pt.
+ [2 <./Bessel.pdf>] [3] [4] [5] [6] [7] [8] <Ex_3_2.pdf, id=50, 642.4pt x 481.8
+pt>
+File: Ex_3_2.pdf Graphic file (type pdf)
+
+<use Ex_3_2.pdf>
+Package pdftex.def Info: Ex_3_2.pdf used on input line 312.
+(pdftex.def)             Requested size: 341.4408pt x 256.0806pt.
+ <Ex_3_3_j0.pdf, id=51, 642.4pt x 481.8pt>
+File: Ex_3_3_j0.pdf Graphic file (type pdf)
+ <use Ex_3_3_j0.pdf>
+Package pdftex.def Info: Ex_3_3_j0.pdf used on input line 321.
+(pdftex.def)             Requested size: 341.4408pt x 227.62228pt.
+
+<Ex_3_3_j1.pdf, id=52, 642.4pt x 481.8pt>
+File: Ex_3_3_j1.pdf Graphic file (type pdf)
+ <use Ex_3_3_j1.pdf>
+Package pdftex.def Info: Ex_3_3_j1.pdf used on input line 327.
+(pdftex.def)             Requested size: 341.4408pt x 227.62228pt.
+
+<Ex_3_3_3point.pdf, id=53, 642.4pt x 481.8pt>
+File: Ex_3_3_3point.pdf Graphic file (type pdf)
+ <use Ex_3_3_3point.pdf>
+Package pdftex.def Info: Ex_3_3_3point.pdf used on input line 334.
+(pdftex.def)             Requested size: 341.4408pt x 184.9385pt.
+ [9 <./Ex_3_2.pdf>] [10 <./Ex_3_3_j0.pdf> <./Ex_3_3_j1.pdf>]
+<Ex_3_3_airy.pdf, id=90, 642.4pt x 481.8pt>
+File: Ex_3_3_airy.pdf Graphic file (type pdf)
+ <use Ex_3_3_airy.pdf>
+Package pdftex.def Info: Ex_3_3_airy.pdf used on input line 351.
+(pdftex.def)             Requested size: 341.4408pt x 184.9385pt.
+ [11 <./Ex_3_3_3point.pdf> <./Ex_3_3_airy.pdf>] <Ex_3_4_j0.pdf, id=114, 642.4pt
+ x 481.8pt>
+File: Ex_3_4_j0.pdf Graphic file (type pdf)
+
+<use Ex_3_4_j0.pdf>
+Package pdftex.def Info: Ex_3_4_j0.pdf used on input line 360.
+(pdftex.def)             Requested size: 341.4408pt x 199.16399pt.
+ <Ex_3_4_j1.pdf, id=115, 642.4pt x 481.8pt>
+File: Ex_3_4_j1.pdf Graphic file (type pdf)
+
+<use Ex_3_4_j1.pdf>
+Package pdftex.def Info: Ex_3_4_j1.pdf used on input line 366.
+(pdftex.def)             Requested size: 341.4408pt x 199.16399pt.
+ [12 <./Ex_3_4_j0.pdf> <./Ex_3_4_j1.pdf>]
+<Ex_3_4_airy.pdf, id=139, 642.4pt x 481.8pt>
+File: Ex_3_4_airy.pdf Graphic file (type pdf)
+ <use Ex_3_4_airy.pdf>
+Package pdftex.def Info: Ex_3_4_airy.pdf used on input line 387.
+(pdftex.def)             Requested size: 341.4408pt x 184.9385pt.
+ [13 <./Ex_3_4_airy.pdf>] <Ex_3_6.pdf, id=154, 642.4pt x 481.8pt>
+File: Ex_3_6.pdf Graphic file (type pdf)
+ <use Ex_3_6.pdf>
+Package pdftex.def Info: Ex_3_6.pdf used on input line 432.
+(pdftex.def)             Requested size: 341.4408pt x 199.16399pt.
+
+<Ex_3_13.pdf, id=155, 260.17201pt x 163.65341pt>
+File: Ex_3_13.pdf Graphic file (type pdf)
+ <use Ex_3_13.pdf>
+Package pdftex.def Info: Ex_3_13.pdf used on input line 455.
+(pdftex.def)             Requested size: 284.54256pt x 128.04617pt.
+
+<Ex_3_13_1st.pdf, id=156, 642.4pt x 481.8pt>
+File: Ex_3_13_1st.pdf Graphic file (type pdf)
+ <use Ex_3_13_1st.pdf>
+Package pdftex.def Info: Ex_3_13_1st.pdf used on input line 462.
+(pdftex.def)             Requested size: 341.4408pt x 170.71304pt.
+
+<Ex_3_13_2nd.pdf, id=157, 642.4pt x 481.8pt>
+File: Ex_3_13_2nd.pdf Graphic file (type pdf)
+ <use Ex_3_13_2nd.pdf>
+Package pdftex.def Info: Ex_3_13_2nd.pdf used on input line 468.
+(pdftex.def)             Requested size: 341.4408pt x 170.71304pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[14 <./Ex_3_6.pdf>]
+
+LaTeX Warning: Text page 15 contains only floats.
+
+[15 <./Ex_3_13.pdf> <./Ex_3_13_1st.pdf> <./Ex_3_13_2nd.pdf>]
+<Ex_3_20.pdf, id=199, 642.4pt x 481.8pt>
+File: Ex_3_20.pdf Graphic file (type pdf)
+ <use Ex_3_20.pdf>
+Package pdftex.def Info: Ex_3_20.pdf used on input line 499.
+(pdftex.def)             Requested size: 341.4408pt x 199.16399pt.
+ [16 <./Ex_3_20.pdf>] <Ex_3_21.pdf, id=213, 642.4pt x 481.8pt>
+File: Ex_3_21.pdf Graphic file (type pdf)
+ <use Ex_3_21.pdf>
+Package pdftex.def Info: Ex_3_21.pdf used on input line 512.
+(pdftex.def)             Requested size: 341.4408pt x 199.16399pt.
+ [17 <./Ex_3_21.pdf>] [18]
+Overfull \hbox (265.07034pt too wide) in paragraph at lines 598--598
+[]\OT1/cmtt/m/n/12 double lagrangeInterpolation(int numberPoints, double *posit
+ionMatrix, double *valueMatrix, double interpolationPoint){[] 
+ []
+
+
+Overfull \hbox (308.29536pt too wide) in paragraph at lines 598--598
+[]\OT1/cmtt/m/n/12 product = product * ((interpolationPoint - positionMatrix[co
+unter2]) / (positionMatrix[counter1] - positionMatrix[counter2]));[] 
+ []
+
+[19]
+Overfull \hbox (221.84532pt too wide) in paragraph at lines 598--598
+[]\OT1/cmtt/m/n/12 double positionMatrix[21] = {-5.,-4.5,-4.,-3.5,-3.,-2.5,-2.,
+-1.5,-1.,-0.5,0,0.5,1.,1.5,2.,2.5,3.,3.5,4.,4.5,5.};[] 
+ []
+
+
+Overfull \hbox (382.3954pt too wide) in paragraph at lines 598--598
+[]\OT1/cmtt/m/n/12 double valueMatrix[21] = {0.,0.,0.,0.,0.,0.,0.,0.00000000000
+000935918,000000000.206115,0.0000453979,0.5,0.999955,1.,1.,1.,1.,1.,1.,1.,1.};[
+] 
+ []
+
+
+Overfull \hbox (61.29524pt too wide) in paragraph at lines 598--598
+[]\OT1/cmtt/m/n/12 pointValue = lagrangeInterpolation(numberPoints,positionMatr
+ix,valueMatrix,calcPoint);[] 
+ []
+
+
+Overfull \hbox (265.07034pt too wide) in paragraph at lines 944--944
+[]\OT1/cmtt/m/n/12 double lagrangeInterpolation(int numberPoints, double *posit
+ionMatrix, double *valueMatrix, double interpolationPoint){[] 
+ []
+
+[20]
+Overfull \hbox (308.29536pt too wide) in paragraph at lines 944--944
+[]\OT1/cmtt/m/n/12 product = product * ((interpolationPoint - positionMatrix[co
+unter2]) / (positionMatrix[counter1] - positionMatrix[counter2]));[] 
+ []
+
+
+Overfull \hbox (475.02045pt too wide) in paragraph at lines 944--944
+[]\OT1/cmtt/m/n/12 double valueMatrix[11] = {0.997503, 0.774578, 0.332612, 0.05
+10938, 0.00109043, 0.0171693, 0.008506, 0.00000179011, 0.00344089, 0.00297175, 
+0.0000755952};[] 
+ []
+
+
+Overfull \hbox (61.29524pt too wide) in paragraph at lines 944--944
+[]\OT1/cmtt/m/n/12 pointValue = lagrangeInterpolation(numberPoints,positionMatr
+ix,valueMatrix,calcPoint);[] 
+ []
+
+[21]
+Overfull \hbox (11.89522pt too wide) in paragraph at lines 944--944
+[]\OT1/cmtt/m/n/12 fprintf(outfileI,"%lf\t%lf\n",positionMatrix[counter1],value
+Matrix[counter1]);[] 
+ []
+
+
+Overfull \hbox (265.07034pt too wide) in paragraph at lines 944--944
+[]\OT1/cmtt/m/n/12 double lagrangeInterpolation(int numberPoints, double *posit
+ionMatrix, double *valueMatrix, double interpolationPoint){[] 
+ []
+
+
+Overfull \hbox (308.29536pt too wide) in paragraph at lines 944--944
+[]\OT1/cmtt/m/n/12 product = product * ((interpolationPoint - positionMatrix[co
+unter2]) / (positionMatrix[counter1] - positionMatrix[counter2]));[] 
+ []
+
+[22]
+Overfull \hbox (240.37033pt too wide) in paragraph at lines 944--944
+[]\OT1/cmtt/m/n/12 double positionMatrix[21] = {0.0,0.5,1.0,1.5,2.0,2.5,3.0,3.5
+,4.0,4.5,5.0,5.5,6.0,6.5,7.0,7.5,8.0,8.5,9.0,9.5,10.0};[] 
+ []
+
+
+Overfull \hbox (1364.22089pt too wide) in paragraph at lines 944--944
+[]\OT1/cmtt/m/n/12 double valueMatrix[21] = {0,0.2422684577,0.4400505857,0.5579
+365079,0.5767248078,0.497094102,0.3390589585,0.1373775274,-0.06604332802,-0.231
+0604319,-0.3275791376,-0.3414382154,-0.2766838581,-0.1538413014,-0.0046828235,0
+.1352484276,0.2346363469,0.2731219637,0.2453117866,0.1612644308,0.04347274617};
+[] 
+ []
+
+
+Overfull \hbox (61.29524pt too wide) in paragraph at lines 944--944
+[]\OT1/cmtt/m/n/12 pointValue = lagrangeInterpolation(numberPoints,positionMatr
+ix,valueMatrix,calcPoint);[] 
+ []
+
+
+Overfull \hbox (265.07034pt too wide) in paragraph at lines 944--944
+[]\OT1/cmtt/m/n/12 double lagrangeInterpolation(int numberPoints, double *posit
+ionMatrix, double *valueMatrix, double interpolationPoint){[] 
+ []
+
+[23]
+Overfull \hbox (308.29536pt too wide) in paragraph at lines 944--944
+[]\OT1/cmtt/m/n/12 product = product * ((interpolationPoint - positionMatrix[co
+unter2]) / (positionMatrix[counter1] - positionMatrix[counter2]));[] 
+ []
+
+
+Overfull \hbox (61.29524pt too wide) in paragraph at lines 944--944
+[]\OT1/cmtt/m/n/12 pointValue = lagrangeInterpolation(numberPoints,positionMatr
+ix,valueMatrix,calcPoint);[] 
+ []
+
+[24]
+Overfull \hbox (265.07034pt too wide) in paragraph at lines 944--944
+[]\OT1/cmtt/m/n/12 double lagrangeInterpolation(int numberPoints, double *posit
+ionMatrix, double *valueMatrix, double interpolationPoint){[] 
+ []
+
+
+Overfull \hbox (308.29536pt too wide) in paragraph at lines 944--944
+[]\OT1/cmtt/m/n/12 product = product * ((interpolationPoint - positionMatrix[co
+unter2]) / (positionMatrix[counter1] - positionMatrix[counter2]));[] 
+ []
+
+[25]
+Overfull \hbox (240.37033pt too wide) in paragraph at lines 944--944
+[]\OT1/cmtt/m/n/12 double positionMatrix[21] = {0.0,0.5,1.0,1.5,2.0,2.5,3.0,3.5
+,4.0,4.5,5.0,5.5,6.0,6.5,7.0,7.5,8.0,8.5,9.0,9.5,10.0};[] 
+ []
+
+
+Overfull \hbox (1358.04588pt too wide) in paragraph at lines 944--944
+[]\OT1/cmtt/m/n/12 double valueMatrix[21] = {1,0.9384698072,0.7651976866,0.5118
+276717,0.2238907791,-0.04838377647,-0.2600519549,-0.38012774,-0.3971498099,-0.3
+20542509,-0.1775967713,-0.0068438694,0.1506452573,0.260094606,0.3000792705,0.26
+63396579,0.1716508071,0.0419392518,-0.0903336112,-0.1939287477,-0.2459357645};[
+] 
+ []
+
+
+Overfull \hbox (61.29524pt too wide) in paragraph at lines 944--944
+[]\OT1/cmtt/m/n/12 pointValue = lagrangeInterpolation(numberPoints,positionMatr
+ix,valueMatrix,calcPoint);[] 
+ []
+
+
+Overfull \hbox (265.07034pt too wide) in paragraph at lines 944--944
+[]\OT1/cmtt/m/n/12 double lagrangeInterpolation(int numberPoints, double *posit
+ionMatrix, double *valueMatrix, double interpolationPoint){[] 
+ []
+
+[26]
+Overfull \hbox (308.29536pt too wide) in paragraph at lines 944--944
+[]\OT1/cmtt/m/n/12 product = product * ((interpolationPoint - positionMatrix[co
+unter2]) / (positionMatrix[counter1] - positionMatrix[counter2]));[] 
+ []
+
+
+Overfull \hbox (240.37033pt too wide) in paragraph at lines 944--944
+[]\OT1/cmtt/m/n/12 double positionMatrix[21] = {0.0,0.5,1.0,1.5,2.0,2.5,3.0,3.5
+,4.0,4.5,5.0,5.5,6.0,6.5,7.0,7.5,8.0,8.5,9.0,9.5,10.0};[] 
+ []
+
+
+Overfull \hbox (1364.22089pt too wide) in paragraph at lines 944--944
+[]\OT1/cmtt/m/n/12 double valueMatrix[21] = {0,0.2422684577,0.4400505857,0.5579
+365079,0.5767248078,0.497094102,0.3390589585,0.1373775274,-0.06604332802,-0.231
+0604319,-0.3275791376,-0.3414382154,-0.2766838581,-0.1538413014,-0.0046828235,0
+.1352484276,0.2346363469,0.2731219637,0.2453117866,0.1612644308,0.04347274617};
+[] 
+ []
+
+
+Overfull \hbox (61.29524pt too wide) in paragraph at lines 944--944
+[]\OT1/cmtt/m/n/12 pointValue = lagrangeInterpolation(numberPoints,positionMatr
+ix,valueMatrix,calcPoint);[] 
+ []
+
+[27]
+Overfull \hbox (419.44542pt too wide) in paragraph at lines 1166--1166
+[]\OT1/cmtt/m/n/12 double hermiteInterpolation(int numberPoints, double *positi
+onMatrix, double *valueMatrix, double *derivativeMatrix, double interpolationPo
+int){[] 
+ []
+
+
+Overfull \hbox (308.29536pt too wide) in paragraph at lines 1166--1166
+[]\OT1/cmtt/m/n/12 product = product * ((interpolationPoint - positionMatrix[co
+unter2]) / (positionMatrix[counter1] - positionMatrix[counter2]));[] 
+ []
+
+[28]
+Overfull \hbox (79.82025pt too wide) in paragraph at lines 1166--1166
+[]\OT1/cmtt/m/n/12 hj = (1. - 2.*(interpolationPoint - positionMatrix[counter1]
+) * sum) * product * product;[] 
+ []
+
+
+Overfull \hbox (475.02045pt too wide) in paragraph at lines 1166--1166
+[]\OT1/cmtt/m/n/12 double valueMatrix[11] = {0.997503, 0.774578, 0.332612, 0.05
+10938, 0.00109043, 0.0171693, 0.008506, 0.00000179011, 0.00344089, 0.00297175, 
+0.0000755952};[] 
+ []
+
+
+Overfull \hbox (462.67044pt too wide) in paragraph at lines 1166--1166
+[]\OT1/cmtt/m/n/12 double derivativeMatrix[11] = {-0.0498959,-0.404507,-0.40697
+6,-0.146501,0.0120241,0.0048812,-0.0149331,-0.000230446,0.003314,-0.00350941,-0
+.000885558};[] 
+ []
+
+
+Overfull \hbox (160.09529pt too wide) in paragraph at lines 1166--1166
+[]\OT1/cmtt/m/n/12 pointValue = hermiteInterpolation(numberPoints,positionMatri
+x,valueMatrix,derivativeMatrix,calcPoint);[] 
+ []
+
+[29]
+Overfull \hbox (419.44542pt too wide) in paragraph at lines 1166--1166
+[]\OT1/cmtt/m/n/12 double hermiteInterpolation(int numberPoints, double *positi
+onMatrix, double *valueMatrix, double *derivativeMatrix, double interpolationPo
+int){[] 
+ []
+
+
+Overfull \hbox (308.29536pt too wide) in paragraph at lines 1166--1166
+[]\OT1/cmtt/m/n/12 product = product * ((interpolationPoint - positionMatrix[co
+unter2]) / (positionMatrix[counter1] - positionMatrix[counter2]));[] 
+ []
+
+
+Overfull \hbox (79.82025pt too wide) in paragraph at lines 1166--1166
+[]\OT1/cmtt/m/n/12 hj = (1. - 2.*(interpolationPoint - positionMatrix[counter1]
+) * sum) * product * product;[] 
+ []
+
+[30]
+Overfull \hbox (549.12048pt too wide) in paragraph at lines 1166--1166
+[]\OT1/cmtt/m/n/12 double valueMatrix[11] = {1.,0.7651976866,0.2238907791,-0.26
+00519549,-0.3971498099,-0.1775967713,0.1506452573,0.3000792705,0.1716508071,-0.
+0903336112,-0.2459357645};[] 
+ []
+
+
+Overfull \hbox (654.09554pt too wide) in paragraph at lines 1166--1166
+[]\OT1/cmtt/m/n/12 double derivativeMatrix[11] = {0.0, -0.4400505857, -0.576724
+8078, -0.3390589585, 0.0660433280, 0.3275791376, 0.2766838581, 0.0046828235, -0
+.2346363469, -0.2453117866, -0.0434727462};[] 
+ []
+
+
+Overfull \hbox (160.09529pt too wide) in paragraph at lines 1166--1166
+[]\OT1/cmtt/m/n/12 pointValue = hermiteInterpolation(numberPoints,positionMatri
+x,valueMatrix,derivativeMatrix,calcPoint);[] 
+ []
+
+
+Overfull \hbox (419.44542pt too wide) in paragraph at lines 1166--1166
+[]\OT1/cmtt/m/n/12 double hermiteInterpolation(int numberPoints, double *positi
+onMatrix, double *valueMatrix, double *derivativeMatrix, double interpolationPo
+int){[] 
+ []
+
+[31]
+Overfull \hbox (308.29536pt too wide) in paragraph at lines 1166--1166
+[]\OT1/cmtt/m/n/12 product = product * ((interpolationPoint - positionMatrix[co
+unter2]) / (positionMatrix[counter1] - positionMatrix[counter2]));[] 
+ []
+
+
+Overfull \hbox (79.82025pt too wide) in paragraph at lines 1166--1166
+[]\OT1/cmtt/m/n/12 hj = (1. - 2.*(interpolationPoint - positionMatrix[counter1]
+) * sum) * product * product;[] 
+ []
+
+
+Overfull \hbox (555.29549pt too wide) in paragraph at lines 1166--1166
+[]\OT1/cmtt/m/n/12 double valueMatrix[11] = {0.,0.4400505857,0.5767248078,0.339
+0589585,-0.06604332802,-0.3275791376,-0.2766838581,-0.0046828235,0.2346363469,0
+.2453117866,0.04347274617};[] 
+ []
+
+
+Overfull \hbox (407.09541pt too wide) in paragraph at lines 1166--1166
+[]\OT1/cmtt/m/n/12 double derivativeMatrix[11] = {0.5, 0.325147, -0.0644716, -0
+.373072, -0.380639, -0.112081, 0.196759, 0.300748, 0.142321, -0.11759, -0.25028
+3};[] 
+ []
+
+
+Overfull \hbox (160.09529pt too wide) in paragraph at lines 1166--1166
+[]\OT1/cmtt/m/n/12 pointValue = hermiteInterpolation(numberPoints,positionMatri
+x,valueMatrix,derivativeMatrix,calcPoint);[] 
+ []
+
+[32]
+Overfull \hbox (73.64525pt too wide) in paragraph at lines 1214--1214
+[]\OT1/cmtt/m/n/12 betaMat[counter] = bMat[counter] - (aMat[counter] * cMat[cou
+nter-1])/betaMat[counter-1];[] 
+ []
+
+
+Overfull \hbox (79.82025pt too wide) in paragraph at lines 1214--1214
+[]\OT1/cmtt/m/n/12 rhoMat[counter] = rMat[counter] - (aMat[counter] * rhoMat[co
+unter-1])/betaMat[counter-1];[] 
+ []
+
+
+Overfull \hbox (468.84544pt too wide) in paragraph at lines 1214--1214
+[]\OT1/cmtt/m/n/12 rhoMat[diagLength-1-counter] = (rhoMat[diagLength-1-counter]
+ - cMat[diagLength-1-counter] * rhoMat[diagLength-counter]) / betaMat[diagLengt
+h-1-counter];[] 
+ []
+
+[33] [34]
+Overfull \hbox (85.99525pt too wide) in paragraph at lines 1346--1346
+[]\OT1/cmtt/m/n/12 sp1 = (xValue - x[counter]) * ((f[counter+1] - f[counter]) /
+ (x[counter+1] - x[counter]));[] 
+ []
+
+
+Overfull \hbox (184.7953pt too wide) in paragraph at lines 1346--1346
+[]\OT1/cmtt/m/n/12 sp2 = (xValue - x[counter]) * (x[counter+1] - x[counter]) * 
+(second[counter+1]/6.0 + second[counter]/3.0);[] 
+ []
+
+
+Overfull \hbox (493.54546pt too wide) in paragraph at lines 1346--1346
+[]\OT1/cmtt/m/n/12 sp4 = ((second[counter+1] - second[counter]) * (xValue - x[c
+ounter]) * (xValue - x[counter]) * (xValue - x[counter]) / (6.0 * (x[counter+1]
+ - x[counter])));[] 
+ []
+
+
+Overfull \hbox (61.29524pt too wide) in paragraph at lines 1346--1346
+[]\OT1/cmtt/m/n/12 void *splineInit(double *x, double *f, double *second, doubl
+e fp1, double fpn, int N){[] 
+ []
+
+
+Overfull \hbox (339.17038pt too wide) in paragraph at lines 1346--1346
+[]\OT1/cmtt/m/n/12 rj = 6.0 * ((f[counter+1] - f[counter]) / (x[counter+1] - x[
+counter]) - (f[counter] - f[counter-1]) / (x[counter] - x[counter-1]));[] 
+ []
+
+[35]
+Overfull \hbox (48.94524pt too wide) in paragraph at lines 1346--1346
+[]\OT1/cmtt/m/n/12 second[N-counter] = (second[N-counter] - c * second[N-counte
+r+1]) / beta[N-counter];[] 
+ []
+
+
+Overfull \hbox (555.29549pt too wide) in paragraph at lines 1346--1346
+[]\OT1/cmtt/m/n/12 double valueMatrix[11] = {0.,0.4400505857,0.5767248078,0.339
+0589585,-0.06604332802,-0.3275791376,-0.2766838581,-0.0046828235,0.2346363469,0
+.2453117866,0.04347274617};[] 
+ []
+
+
+Overfull \hbox (85.99525pt too wide) in paragraph at lines 1346--1346
+[]\OT1/cmtt/m/n/12 splineInit(positionMatrix,valueMatrix,secondDeriv,valueDeriv
+1,valueDerivN,numberOfPoints);[] 
+ []
+
+
+Overfull \hbox (73.64525pt too wide) in paragraph at lines 1346--1346
+[]\OT1/cmtt/m/n/12 interpValue = spline(interpPoint,positionMatrix,valueMatrix,
+secondDeriv,numberOfPoints);[] 
+ []
+
+[36]
+Overfull \hbox (24.24522pt too wide) in paragraph at lines 1538--1538
+[]\OT1/cmtt/m/n/12 differentiatedValue = (function(xValue+stepSize) - function(
+xValue)) / stepSize;[] 
+ []
+
+
+Overfull \hbox (98.34526pt too wide) in paragraph at lines 1538--1538
+[]\OT1/cmtt/m/n/12 differentiatedValue = (function(xValue+stepSize)-function(xV
+alue-stepSize)) / (2.*stepSize);[] 
+ []
+
+
+Overfull \hbox (24.24522pt too wide) in paragraph at lines 1538--1538
+[]\OT1/cmtt/m/n/12 differentiatedValue = (function(xValue) - function(xValue-st
+epSize)) / stepSize;[] 
+ []
+
+[37]
+Overfull \hbox (339.17038pt too wide) in paragraph at lines 1538--1538
+[]\OT1/cmtt/m/n/12 differentiatedValue = ((function(xValue) - 2.0*function(xVal
+ue+stepSize) + function(xValue+2.0*stepSize)) / (stepSize * stepSize));[] 
+ []
+
+
+Overfull \hbox (314.47037pt too wide) in paragraph at lines 1538--1538
+[]\OT1/cmtt/m/n/12 differentiatedValue = ((function(xValue+stepSize) - 2.0*func
+tion(xValue) + function(xValue-stepSize)) / (stepSize * stepSize));[] 
+ []
+
+[38]
+Overfull \hbox (277.42035pt too wide) in paragraph at lines 1538--1538
+[]\OT1/cmtt/m/n/12 fprintf(outfile,"%lf\t%.20lf\t%.20lf\t%.20lf\t%.20lf\t%.20lf
+\n",stepSize,forError,cenError,extError,for2Error,cen2Error);[] 
+ []
+
+
+Overfull \hbox (104.52026pt too wide) in paragraph at lines 1538--1538
+[]\OT1/cmtt/m/n/12 differentiatedValue = (function(xValue+stepSize)-function(xV
+alue-stepSize)) / (2.0*stepSize);[] 
+ []
+
+[39]
+Overfull \hbox (110.69527pt too wide) in paragraph at lines 1538--1538
+[]\OT1/cmtt/m/n/12 D[counter][counter2] = richardson(counter2, D[counter][count
+er2-1], D[counter-1][counter2-1]);[] 
+ []
+
+
+Overfull \hbox (42.77023pt too wide) in paragraph at lines 1538--1538
+[]\OT1/cmtt/m/n/12 //printf("D_%i(%lf) = %lf\n",counter2+1,0.4/(pow(2,counter))
+,D[counter][counter2]);[] 
+ []
+
+[40]
+Overfull \hbox (18.07022pt too wide) in paragraph at lines 1753--1753
+[]\OT1/cmtt/m/n/12 double *luSolve(double **a, double *x, double *b, double det
+, int ndim, int n){[] 
+ []
+
+[41] [42] [43] [44] [45] [46] [47] [48] [49]
+Overfull \hbox (240.37033pt too wide) in paragraph at lines 2034--2034
+[]\OT1/cmtt/m/n/12 double valueMatrix[11] = {1.67203,1.79792,2.37791,2.66408,2.
+11245,2.43969,1.88843,1.59447,1.79634,1.07810,0.21066};[] 
+ []
+
+[50]
+Overfull \hbox (61.29524pt too wide) in paragraph at lines 2034--2034
+[]\OT1/cmtt/m/n/12 temp = temp + positionMatrix[i]*positionMatrix[i]*positionMa
+trix[i]*positionMatrix[i];[] 
+ []
+
+[51] [52] [53]
+Overfull \hbox (24.24522pt too wide) in paragraph at lines 2222--2222
+[]\OT1/cmtt/m/n/12 tc = tc + intensity / (1.+4.*(lambda-lambdaO)*(lambda-lambda
+O) / (gamma*gamma));[] 
+ []
+
+[54] [55] [56] (./CompLab2.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 2744 strings out of 494752
+ 38158 string characters out of 3171020
+ 113092 words of memory out of 3000000
+ 5919 multiletter control sequences out of 15000+200000
+ 8737 words of font info for 32 fonts, out of 3000000 for 9000
+ 166 hyphenation exceptions out of 8191
+ 38i,9n,23p,1518b,248s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/local/texlive/2011basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx1
+2.pfb></usr/local/texlive/2011basic/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mex10.pfb></usr/local/texlive/2011basic/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmmi12.pfb></usr/local/texlive/2011basic/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmmi6.pfb></usr/local/texlive/2011basic/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmmi8.pfb></usr/local/texlive/2011basic/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmr12.pfb></usr/local/texlive/2011basic/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmr6.pfb></usr/local/texlive/2011basic/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmr8.pfb></usr/local/texlive/2011basic/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2011basic/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2011basic/texmf-dist/font
+s/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2011basic/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on CompLab2.pdf (56 pages, 488031 bytes).
+PDF statistics:
+ 394 PDF objects out of 1000 (max. 8388607)
+ 264 compressed objects within 3 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 76 words of extra memory for PDF output out of 10000 (max. 10000000)
+
