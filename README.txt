@@ -1,0 +1,3 @@
+This repo contains code created during PHYS 440 (Computational Physics 2) at Illinois Institute of Technology by Liam Coffey.  This course covers advanced computational methods commonly used by physicists.  These topics include: root finding, derivatives and integrals, differential equation solving, and Fourier transforms.  We also cover data fitting and interpolation techniques.  All code was written in C.
+
+These topics were taught in the context of advanced physical problems like solving the quantum states of particles in potential wells or hydrogen atoms, heat transfer, random walk, and damped- or driven-pendulums.  See the inclued .pdf lab reports for details of theory and mathematics behind these projects.
